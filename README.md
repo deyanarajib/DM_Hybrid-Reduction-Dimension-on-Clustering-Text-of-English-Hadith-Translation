@@ -1,2 +1,2 @@
-# Feature Selection and DBSCAN Clustering on Text Hadits
- based on Journal: Analisis Perbandingan Algoritma Clustering K-Means dan DBSCAN untuk Data Teks Terjemahan Hadits Menggunakan Ekstraksi Ciri Hybrid
+# Hybrid Reduction Dimension on Clustering Text of English Hadith Translation
+A collaboration project with Nanda Priatna from his thesis research: "Analisis Perbandingan Algoritma Clustering K-Means dan DBSCAN untuk Data Teks Terjemahan Hadits Menggunakan Ekstraksi Ciri Hybrid", which analyzes of text clustering based hybrid feature extraction on Hadith translation in English. This project was presented on International Conference on Telematics and Wireless (ICWT) in Jogjakarta, Indonesia on July 12-13, 2019.
